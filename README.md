@@ -20,7 +20,7 @@ A web application that combines AI capabilities with web scraping to automatical
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone git@github.com:benwilliams4/ai-selector-updater.git
 cd ai-selector-updater
 ```
 
@@ -70,12 +70,4 @@ npm start
 - JSDOM - DOM manipulation for selector testing
 - dotenv - Environment variable management
 - node-fetch - HTTP client
-- OpenAI API - AI model integration
-
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines if applicable] 
+- OpenAI API - AI model integration 
