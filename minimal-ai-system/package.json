@@ -1,0 +1,10 @@
+{
+  "name": "minimal-ai-system",
+  "version": "1.0.0",
+  "description": "A minimal AI system with tool calls support",
+  "main": "ai-response.js",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^2.6.9"
+  }
+} 
