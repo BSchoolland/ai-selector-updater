@@ -20,7 +20,7 @@ A web application that combines AI capabilities with web scraping to automatical
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:benwilliams4/ai-selector-updater.git
+git clone https://github.com/BSchoolland/ai-selector-updater.git
 cd ai-selector-updater
 ```
 
